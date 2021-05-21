@@ -3,9 +3,10 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
+@def generate_rss = true
 @def website_title = "Ifihan's Blog"
-@def website_descr = "A blog  using Franklin"
-@def website_url   = ""
+@def website_descr = "A blog built using Franklin"
+@def website_url   = "ifihan.github.io/blouge"
 
 @def author = "Ifihanagbara Olusheye"
 @def prepath = "blouge"

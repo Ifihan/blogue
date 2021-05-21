@@ -14,3 +14,10 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+function hfun_rss()
+  rss = locvar(:rss)::String
+  descr = fd2html(rss; internal=true, nop=true)
+  Franklin.set_var!(Franklin.LOCAL_VARS, "rss_description", descr)
+  return "<p>$descr</p>"
+end
