@@ -9,7 +9,7 @@ The website_* must be defined for the RSS to work
 @def website_url   = "ifihan.github.io/blouge"
 
 @def author = "Ifihanagbara Olusheye"
-@def prepath = "blouge"
+@def prepath = "blogue"
 
 @def mintoclevel = 2
 
