@@ -1,9 +1,12 @@
-<!-- @def title = "Ifihan's Space - Home"
-@def tags = ["syntax", "code"] -->
++++
+title = "Home"
+rss = "Ifihan Olusheye's Blog in Julia"
+image = "/assets/ifihan.png"
++++
 
 ~~~
 <center>
-<img class="" src="assets/ifihan.jpg">
+<img class="avatar-image" src="assets/ifihan.jpg">
 </center>
 ~~~
 

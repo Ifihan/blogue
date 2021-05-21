@@ -73,6 +73,12 @@ html {
     TEXT GEOMETRY
 ================================================================== */
 
+.avatar-image {
+  width: 8rem !important;
+  height: auto;
+  border-radius: 50%; 
+}
+
 .franklin-toc li {
   /* Avoid clickable elements being too close together. */
   margin: 0.6rem 0;
