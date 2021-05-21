@@ -2,31 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>index.html</loc>
+    <loc>ifihan.github.io/blouge/index.html</loc>
     <lastmod>2021-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>404/index.html</loc>
+    <loc>ifihan.github.io/blouge/404/index.html</loc>
     <lastmod>2021-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>_pages/blog/index.html</loc>
+    <loc>ifihan.github.io/blouge/_pages/blog/index.html</loc>
     <lastmod>2021-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>_pages/menu3/index.html</loc>
-    <lastmod>2021-05-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>_pages/menu2/index.html</loc>
+    <loc>ifihan.github.io/blouge/contact/index.html</loc>
     <lastmod>2021-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

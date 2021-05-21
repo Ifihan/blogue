@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: ifihan.github.io/blouge/sitemap.xml
 
 User-agent: *
 Disallow:
