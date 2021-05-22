@@ -1,7 +1,6 @@
 +++
 title = "Home"
 rss = "Ifihan Olusheye's Blog in Julia"
-image = "/assets/ifihan.png"
 +++
 
 ~~~
