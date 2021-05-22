@@ -10,9 +10,9 @@ image = "/assets/ifihan.png"
 </center>
 ~~~
 
-**Welcome to my page!** \\
-Hi, my name is Ifihanagbara Olusheye, known as _Ifihan_. I'm married to Levi Ackerman.
+**Welcome to my page!** \\\\
+Hi, my name is Ifihanagbara Olusheye, known as Ifihan. I'm married to Levi Ackerman.
 
 Currently studing Systems Engineering, I'm a broke student and I currently run on pure vibes :)
 
-I also code and write atimes (when I'm bored). Check me out on [GitHub](https://github.com/Ifihan), [Dev.to](https://dev.to/ifihan), and [Hashnode](https://hashnode.com/@Ifihan).
+When I'm bored, I write on [Dev.to](https://dev.to/ifihan), and [Hashnode](https://hashnode.com/@Ifihan) and I code and push some [GitHub](https://github.com/Ifihan).
