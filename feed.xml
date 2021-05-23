@@ -31,7 +31,7 @@
     <![CDATA[  Ifihan Olusheye&#39;s Blog in Julia  ]]>
   </description>  
     
-  <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -42,15 +42,34 @@
 
 <item>
   <title>
-    <![CDATA[  The Julia Programming Language  ]]>
+    <![CDATA[  Blog  ]]>
   </title>
-  <link> ifihan.github.io/blouge/_pages/blog/index.html </link>
-  <guid> ifihan.github.io/blouge/_pages/blog/index.html </guid>
+  <link> ifihan.github.io/blouge/blog/index.html </link>
+  <guid> ifihan.github.io/blouge/blog/index.html </guid>
   <description>
-    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" alt="" />  ]]>
+    <![CDATA[  Ifihan Olusheye&#39;s Blog in Julia  ]]>
   </description>  
     
-  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Ifihanagbara Olusheye</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Contact  ]]>
+  </title>
+  <link> ifihan.github.io/blouge/contact/index.html </link>
+  <guid> ifihan.github.io/blouge/contact/index.html </guid>
+  <description>
+    <![CDATA[  Ifihan Olusheye&#39;s Blog in Julia  ]]>
+  </description>  
+    
+  <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
