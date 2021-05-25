@@ -42,6 +42,82 @@
 
 <item>
   <title>
+    <![CDATA[  Lists vs Tuples in Python  ]]>
+  </title>
+  <link> ifihan.github.io/blouge/posts/listvstuples/index.html </link>
+  <guid> ifihan.github.io/blouge/posts/listvstuples/index.html </guid>
+  <description>
+    <![CDATA[  Differences between lists and tuples in Python.  ]]>
+  </description>  
+    
+  <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Ifihanagbara Olusheye</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  An Introduction to Machine Learning.  ]]>
+  </title>
+  <link> ifihan.github.io/blouge/posts/machine_learning/index.html </link>
+  <guid> ifihan.github.io/blouge/posts/machine_learning/index.html </guid>
+  <description>
+    <![CDATA[  An introduction to what Machine learning is all about.  ]]>
+  </description>  
+    
+  <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Ifihanagbara Olusheye</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  The Julia Programming Language.  ]]>
+  </title>
+  <link> ifihan.github.io/blouge/posts/julia/index.html </link>
+  <guid> ifihan.github.io/blouge/posts/julia/index.html </guid>
+  <description>
+    <![CDATA[  This is a brief introduction to what the Julia Language is, its features and its uses.  ]]>
+  </description>  
+    
+  <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Ifihanagbara Olusheye</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  How to be sucessful with Remote Learning.  ]]>
+  </title>
+  <link> ifihan.github.io/blouge/posts/remote_learning/index.html </link>
+  <guid> ifihan.github.io/blouge/posts/remote_learning/index.html </guid>
+  <description>
+    <![CDATA[  Tips on how to excel with remote learning  ]]>
+  </description>  
+    
+  <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Ifihanagbara Olusheye</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Blog  ]]>
   </title>
   <link> ifihan.github.io/blouge/blog/index.html </link>

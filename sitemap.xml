@@ -20,6 +20,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>ifihan.github.io/blouge/posts/machine_learning/index.html</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>ifihan.github.io/blouge/404/index.html</loc>
     <lastmod>2021-05-25</lastmod>
     <changefreq>monthly</changefreq>
