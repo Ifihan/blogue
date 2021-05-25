@@ -1,3 +1,10 @@
++++
+title = "The Julia Programming Language."
+rss = "This is a brief introduction to what the Julia Language is, its features and its uses."
++++
+
+### The Julia Programming Language.
+
 #### INTRODUCTION
 
 As tech evolves, things get to be made better, faster, and more simplified. This goes for programming languages too. Languages have been modified to be better and this has led to the development of a number of relatively new programming languages one of which is Julia.

@@ -52,12 +52,12 @@ header .blog-name {
 }
 
 header .blog-name a {
-  color: rgb(58, 148, 118);
+  color: rgb(138, 16, 138);
   text-decoration: none;
 }
 
 header li a:hover {
-  color: rgb(58, 148, 118);
+  color: rgb(138, 16, 138);
   /* color: black; */
   border-bottom: 2px solid black;
 }

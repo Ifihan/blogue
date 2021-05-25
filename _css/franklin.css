@@ -352,7 +352,7 @@ section .blog-box {
  width:40% !important;
  border-radius:10px 0 0 10px;
  padding:0 !important;
-  border-right:3px solid #3a9476;
+  border-right:3px solid rgb(138, 16, 138);
 }
 
 .blog-description {
@@ -362,7 +362,7 @@ section .blog-box {
 
 .blog-description button {
  border:0;
- background-color:#3a9476;
+ background-color:rgb(138, 16, 138);
  color:white;
  padding:10px;
  border-radius:5px;

@@ -1,3 +1,10 @@
++++
+title = "Lists vs Tuples in Python"
+rss = "Differences between lists and tuples in Python."
++++
+
+### Lists vs Tuples in Python
+
 Python has support for data structures which enables you to store and access data in your piece of code. 
 
 There are several data structures in Python such as:

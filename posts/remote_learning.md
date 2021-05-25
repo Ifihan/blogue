@@ -1,3 +1,9 @@
++++
+title = "How to be sucessful with Remote Learning."
+rss = "Tips on how to excel with remote learning"
++++
+### How to be sucessful with Remote Learning.
+
 A Remote learning setting is any setting in which the student and the educator/instructor are not in the same room or environment as in the traditional classroom setting. Instead, information is relayed over a distance and to a possibly wider audience through various media such as websites, blogs, video conferencing and even through audio.
 
 In recent times, due to the current pandemic ravaging the world, remote learning has never been more widely sought after. We have been forcefully confined to our homes without access to the traditional settings for learning, thus making remote learning the safest means by which learning can still take place without putting the lives of the students, teachers and general public at risk.
