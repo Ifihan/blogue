@@ -5,4 +5,7 @@ rss = "Ifihan Olusheye's Blog in Julia"
 
 # Contact
 
-Feel free to reach out to me on the following platforms
+Feel free to reach out to me on:
+
+[Twitter](http://twitter.com/ifihan_)
+[Gmail](victoriaolusheye@gmail.com)
