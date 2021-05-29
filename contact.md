@@ -8,4 +8,4 @@ rss = "Ifihan Olusheye's Blog in Julia"
 Feel free to reach out to me on:
 
 [Twitter](http://twitter.com/ifihan_)
-[Gmail](victoriaolusheye@gmail.com)
+[Gmail](mailto:victoriaolusheye@gmail.com)
